@@ -1,0 +1,16 @@
+
+Microstrip Patch Antenna Design Summary
+----------------------------------------
+
+Target Frequency: 2.4 GHz (ISM Band)
+Substrate: FR4 (εr = 4.4), Thickness = 1.6 mm
+Patch Dimensions: 38 mm x 29 mm (approx.)
+Feed Technique: Microstrip Line Feed
+Simulation Tool: ANSYS HFSS
+
+Key Results:
+- Return Loss (S11): ~-20 dB at 2.4 GHz
+- Bandwidth: ~100 MHz
+- Radiation Pattern: Directional, Gain ~6 dBi
+
+Application: Wireless communication (Wi-Fi, Bluetooth, IoT)
