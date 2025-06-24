@@ -1,51 +1,45 @@
-<h1 align="center">Hi 👋, I'm Subhadip Bera</h1>
-<h3 align="center">Electronics & Communication Engineering Student | IoT & Software Developer | NCC Cadet</h3>
+# Microstrip Patch Antenna Simulation
+
+## 📋 Overview
+This project demonstrates the design and simulation of a microstrip patch antenna using HFSS and MATLAB. The antenna is optimized for enhanced signal efficiency and targeted for high-performance wireless communication applications.
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 B.Tech in Electronics and Communication Engineering (2021–2025)  
-- 💻 Passionate about Embedded Systems, IoT, Python & Web Technologies  
-- 🎯 Seeking internship roles in **IoT, Embedded, or Software Development**
-
----
-
-### 🔧 Tech Stack
-
-- **Languages:** C, C++, Python, HTML, CSS, JavaScript, MySQL  
-- **Tools:** MATLAB, HFSS, Arduino IDE, Git/GitHub  
-- **Concepts:** OOP, DBMS, Data Structures & Algorithms  
-- **Soft Skills:** Leadership, Time Management, Critical Thinking
+## 🚀 Features
+- Simulation performed using **HFSS** for precise antenna design
+- Achieves optimized resonance for target frequency
+- Analyzed parameters such as gain, bandwidth, and return loss
+- Visualized radiation patterns and surface current densities
 
 ---
 
-### 🛠 Projects
-
-🚨 [**Gas Leakage Detection and Safety System**](https://github.com/subhadipbera287/Gas-Leakage-Detection-System)  
-IoT system using Arduino, MQ2 sensor, GSM module for real-time alerts and exhaust control.
-
-📡 [**Microstrip Patch Antenna Simulation**](https://github.com/subhadipbera287/Microstrip-Patch-Antenna-Simulation)  
-Designed & simulated a 2.4GHz patch antenna using HFSS with radiation & return loss optimization.
+## ⚙️ Technologies Used
+- HFSS (High Frequency Structure Simulator)
+- MATLAB
+- Git/GitHub for version control
 
 ---
 
-### 🏆 Achievements
-
-- 🛩️ **NCC 'B' & 'C' Certificates (Grade A)** – Indian Air Force Wing  
-- 🫡 **Leading Flight Cadet (LFC)** – Promoted unity & discipline in national-level cadet training
-
----
-
-### 📫 Connect With Me
-
-- 📧 Email: subhadipbera287@gmail.com  
-- 📍 Location: Kolkata, India  
-- 🌐 [GitHub Portfolio](https://github.com/subhadipbera287)
+## ✅ Results
+- Achieved resonant frequency within target range (e.g., ~2.4 GHz).
+- Simulation results included:
+  - Gain: ~X dBi
+  - Bandwidth: ~Y MHz
+  - Return loss: ~Z dB
+- Confirmed antenna efficiency suitable for wireless communication applications.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Setup
+1. Open `.hfss` project file in Ansys HFSS.
+2. Run simulation.
+3. Export results and visualize using HFSS or MATLAB.
 
-![Subhadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadipbera287&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadipbera287&layout=compact&theme=radical)
+---
+
+## 📞 Contact
+For questions or collaboration:
+**Email**: subhadipbera287@gmail.com  
+**GitHub**: [subhadipbera287](https://github.com/subhadipbera287)
+
+---
